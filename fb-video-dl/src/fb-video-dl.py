@@ -82,7 +82,7 @@ def get_fvID(fburl):
 
 
 #retrieves video info
-#you need documntation on this this part
+#you need documntation on this this part and do  quick documetation on you labrary
 def get_vidinfo(videoID):
     try:
         try:
